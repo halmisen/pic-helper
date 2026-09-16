@@ -1,0 +1,16 @@
+# User-provided source attachments and external style reference
+HRcMMuzboAAn0Y1.jpg
+f13157a7e43d22c0216b399379dfd384.jpg
+fbbe59dc552d1d6743fff6c5ca1678e7.png
+
+# Local-only caches and generated tool outputs
+.codex/
+.opencli/
+web-articles/
+trace-error.yaml
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
