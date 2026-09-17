@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="5472" viewBox="0 0 2520 5472">
+  <title>29 英文楚报馆旧址</title>
+  <desc>武汉城市建筑散步讲解者提词卡。上半部为真实建筑照片的 AI 风格化重绘，下半部为核查稿压缩后的现场提词。</desc>
+
+  <rect width="2520" height="5472" fill="#FBF8EF"/>
+
+  <g fill="#0B4FAF" stroke="#0B4FAF">
+    <line x1="160" y1="150" x2="2360" y2="150" stroke-width="5"/>
+    <circle cx="160" cy="150" r="11" fill="#FBF8EF" stroke-width="5"/>
+    <circle cx="2360" cy="150" r="11" fill="#FBF8EF" stroke-width="5"/>
+  </g>
+
+  <text x="180" y="360" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="180" font-weight="700">29</text>
+  <text x="620" y="350" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="126" font-weight="700">英文楚报馆旧址</text>
+  <text x="625" y="485" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="48">1924年　武汉市江岸区胜利街99号</text>
+
+  <image href="29-英文楚报馆-v3-图生图测试-03.png" x="380" y="650" width="1760" height="2112" preserveAspectRatio="none"/>
+
+  <line x1="160" y1="2860" x2="2360" y2="2860" stroke="#0B4FAF" stroke-width="5"/>
+  <text x="180" y="3005" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="76" font-weight="700">把它讲成一台新闻机器</text>
+  <text x="182" y="3100" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="42">先看建筑，再讲报纸如何把武汉接入更大的传播网络。</text>
+
+  <line x1="1260" y1="3210" x2="1260" y2="5060" stroke="#0B4FAF" stroke-width="4"/>
+  <line x1="160" y1="4140" x2="2360" y2="4140" stroke="#0B4FAF" stroke-width="4"/>
+
+  <g fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="66" font-weight="700">
+    <text x="190" y="3350">先看建筑</text>
+    <text x="1330" y="3350">它是什么地方</text>
+    <text x="190" y="4280">它经历了什么</text>
+    <text x="1330" y="4280">现场收尾</text>
+  </g>
+
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="50">
+    <text x="190" y="3480">
+      <tspan x="190" dy="0">先看台基和台阶，再看转角、</tspan>
+      <tspan x="190" dy="82">屋顶栏杆、阳台和高窗。</tspan>
+      <tspan x="190" dy="82">它有装饰主义倾向，也保留</tspan>
+      <tspan x="190" dy="82">古典主义三段式构图。</tspan>
+    </text>
+
+    <text x="1330" y="3480">
+      <tspan x="1330" dy="0">1924年建成的英文《楚报》</tspan>
+      <tspan x="1330" dy="82">报馆。英文名是 Central China</tspan>
+      <tspan x="1330" dy="82">Post，服务于编辑、办公和</tspan>
+      <tspan x="1330" dy="82">新闻信息交换。</tspan>
+    </text>
+
+    <text x="190" y="4410">
+      <tspan x="190" dy="0">1904年创办，1911年改为日刊；</tspan>
+      <tspan x="190" dy="82">1924年报馆大楼落成；1938年</tspan>
+      <tspan x="190" dy="82">武汉沦陷后仍继续出版；1941年</tspan>
+      <tspan x="190" dy="82">被日军查封并占用。</tspan>
+    </text>
+
+    <text x="1330" y="4410">
+      <tspan x="1330" dy="0">它不只是租界里的西式建筑，</tspan>
+      <tspan x="1330" dy="82">也是一台把武汉新闻送入更大</tspan>
+      <tspan x="1330" dy="82">传播网络的城市机器。</tspan>
+      <tspan x="1330" dy="82">开放状态请现场确认。</tspan>
+    </text>
+  </g>
+
+</svg>

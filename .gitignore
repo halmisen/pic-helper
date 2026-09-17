@@ -6,6 +6,7 @@ fbbe59dc552d1d6743fff6c5ca1678e7.png
 # Local-only caches and generated tool outputs
 .codex/
 .opencli/
+.kami-venv/
 web-articles/
 trace-error.yaml
 

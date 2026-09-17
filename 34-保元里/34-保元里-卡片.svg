@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="5472" viewBox="0 0 2520 5472">
+  <title>34 保元里</title>
+  <desc>武汉建筑散步提词卡。上半部为真实建筑参考图的唯一一次图生图重绘，下半部为 SVG 讲解信息。</desc>
+
+  <rect width="2520" height="5472" fill="#FCFBF7"/>
+
+  <g fill="#0B4FAF" stroke="#0B4FAF">
+    <line x1="160" y1="150" x2="2360" y2="150" stroke-width="5"/>
+    <circle cx="160" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+    <circle cx="2360" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+  </g>
+
+  <text x="180" y="360" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="180" font-weight="700">34</text>
+  <text x="620" y="350" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="138" font-weight="700">保元里</text>
+  <text x="625" y="485" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="48">1912　汉口历史风貌区 · 中山大道、南京路一带</text>
+
+  <image href="34-保元里-上半部-图生图.png" x="160" y="600" width="2200" height="2040" preserveAspectRatio="xMidYMid meet"/>
+
+  <line x1="160" y1="2860" x2="2360" y2="2860" stroke="#0B4FAF" stroke-width="5"/>
+  <text x="180" y="3005" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="76" font-weight="700">一座老里分，如何回到城市日常</text>
+  <text x="182" y="3100" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="42">先看转角和屋顶，再讲老建筑如何被继续使用。</text>
+
+  <line x1="1260" y1="3210" x2="1260" y2="4780" stroke="#0B4FAF" stroke-width="4"/>
+  <line x1="160" y1="4100" x2="2360" y2="4100" stroke="#0B4FAF" stroke-width="4"/>
+
+  <g fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="66" font-weight="700">
+    <text x="190" y="3350">先看什么</text>
+    <text x="1330" y="3350">它是什么地方</text>
+    <text x="190" y="4240">名字的时间感</text>
+    <text x="1330" y="4240">今天怎么讲</text>
+  </g>
+
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="50">
+    <text x="190" y="3480">
+      <tspan x="190" dy="0">先找街角的转折，再看红瓦</tspan>
+      <tspan x="190" dy="82">坡屋顶、檐口、窗洞和连续</tspan>
+      <tspan x="190" dy="82">街墙。它不是一栋孤立的房子。</tspan>
+    </text>
+
+    <text x="1330" y="3480">
+      <tspan x="1330" dy="0">保元里是汉口历史风貌区里</tspan>
+      <tspan x="1330" dy="82">的老里分，位于中山大道、</tspan>
+      <tspan x="1330" dy="82">南京路一带。街巷顺着建筑</tspan>
+      <tspan x="1330" dy="82">展开，形成有尺度的城市界面。</tspan>
+    </text>
+
+    <text x="190" y="4370">
+      <tspan x="190" dy="0">1912 年是民国元年。“保元”</tspan>
+      <tspan x="190" dy="82">这个名字，把一处街区和城市</tspan>
+      <tspan x="190" dy="82">进入新纪年的节点连在一起。</tspan>
+    </text>
+
+    <text x="1330" y="4370">
+      <tspan x="1330" dy="0">这里适合讲“保护利用”：</tspan>
+      <tspan x="1330" dy="82">老房子不是封存的标本，</tspan>
+      <tspan x="1330" dy="82">更新之后，仍然可以回到</tspan>
+      <tspan x="1330" dy="82">日常生活。</tspan>
+    </text>
+  </g>
+
+  <line x1="160" y1="4850" x2="2360" y2="4850" stroke="#0B4FAF" stroke-width="4"/>
+  <text x="190" y="4960" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="72" font-weight="700">时间轴</text>
+  <line x1="230" y1="5140" x2="2290" y2="5140" stroke="#0B4FAF" stroke-width="5"/>
+  <g fill="#FCFBF7" stroke="#0B4FAF" stroke-width="5">
+    <circle cx="230" cy="5140" r="14"/>
+    <circle cx="916" cy="5140" r="14"/>
+    <circle cx="1603" cy="5140" r="14"/>
+    <circle cx="2290" cy="5140" r="14"/>
+  </g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="36">
+    <text x="185" y="5240">1912　得名背景</text>
+    <text x="820" y="5240">百年里分　延续</text>
+    <text x="1495" y="5240">2024　焕新开街</text>
+    <text x="2150" y="5240">今天　城市生活</text>
+  </g>
+</svg>

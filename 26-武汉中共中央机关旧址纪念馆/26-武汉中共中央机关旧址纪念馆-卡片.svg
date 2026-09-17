@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="5472" viewBox="0 0 2520 5472">
+  <title>26 武汉中共中央机关旧址纪念馆</title>
+  <desc>武汉建筑散步提词卡。上半部为真实建筑参考图的唯一一次图生图重绘，下半部为 SVG 讲解信息。</desc>
+
+  <rect width="2520" height="5472" fill="#FCFBF7"/>
+  <g fill="#0B4FAF" stroke="#0B4FAF">
+    <line x1="160" y1="150" x2="2360" y2="150" stroke-width="5"/>
+    <circle cx="160" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+    <circle cx="2360" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+  </g>
+
+  <text x="180" y="360" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="180" font-weight="700">26</text>
+  <text x="620" y="350" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="104" font-weight="700">武汉中共中央机关旧址纪念馆</text>
+  <text x="625" y="485" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="48">1919　江岸区胜利街165、167、169号</text>
+
+  <image href="26-武汉中共中央机关旧址纪念馆-上半部-图生图.png" x="160" y="600" width="2200" height="2040" preserveAspectRatio="xMidYMid meet"/>
+
+  <line x1="160" y1="2860" x2="2360" y2="2860" stroke="#0B4FAF" stroke-width="5"/>
+  <text x="180" y="3005" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="76" font-weight="700">一栋住宅，如何承载大历史</text>
+  <text x="182" y="3100" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="42">先看门廊和阳台，再讲机关如何进入一栋普通住宅。</text>
+
+  <line x1="1260" y1="3210" x2="1260" y2="4780" stroke="#0B4FAF" stroke-width="4"/>
+  <line x1="160" y1="4100" x2="2360" y2="4100" stroke="#0B4FAF" stroke-width="4"/>
+
+  <g fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="66" font-weight="700">
+    <text x="190" y="3350">建筑风格</text>
+    <text x="1330" y="3350">它是什么地方</text>
+    <text x="190" y="4240">它经历了什么</text>
+    <text x="1330" y="4240">现状</text>
+  </g>
+
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="50">
+    <text x="190" y="3480">
+      <tspan x="190" dy="0">1919年建成的三层砖木住宅楼，</tspan>
+      <tspan x="190" dy="82">有两个对称门廊；二、三层</tspan>
+      <tspan x="190" dy="82">外墙拉毛，并各有两个小阳台。</tspan>
+      <tspan x="190" dy="82">它的尺度更接近城市住宅，</tspan>
+      <tspan x="190" dy="82">而不是纪念性大楼。</tspan>
+    </text>
+
+    <text x="1330" y="3480">
+      <tspan x="1330" dy="0">旧址位于胜利街165、167、</tspan>
+      <tspan x="1330" dy="82">169号。1927年，中共中央</tspan>
+      <tspan x="1330" dy="82">机关从上海迁至武汉，租用</tspan>
+      <tspan x="1330" dy="82">这里办公和居住。</tspan>
+    </text>
+
+    <text x="190" y="4370">
+      <tspan x="190" dy="0">新中国成立后，建筑长期作为</tspan>
+      <tspan x="190" dy="82">民居使用。2008年列为湖北省</tspan>
+      <tspan x="190" dy="82">文物保护单位，2013年列为</tspan>
+      <tspan x="190" dy="82">全国重点文物保护单位。</tspan>
+    </text>
+
+    <text x="1330" y="4370">
+      <tspan x="1330" dy="0">2014年开始整修，按初建样貌</tspan>
+      <tspan x="1330" dy="82">修复；2016年9月30日，</tspan>
+      <tspan x="1330" dy="82">旧址连同相邻建筑作为纪念馆</tspan>
+      <tspan x="1330" dy="82">正式开放。</tspan>
+    </text>
+  </g>
+
+  <line x1="160" y1="4850" x2="2360" y2="4850" stroke="#0B4FAF" stroke-width="4"/>
+  <text x="190" y="4960" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="72" font-weight="700">时间轴</text>
+  <line x1="180" y1="5140" x2="2340" y2="5140" stroke="#0B4FAF" stroke-width="5"/>
+  <g fill="#FCFBF7" stroke="#0B4FAF" stroke-width="5">
+    <circle cx="240" cy="5140" r="14"/>
+    <circle cx="750" cy="5140" r="14"/>
+    <circle cx="1260" cy="5140" r="14"/>
+    <circle cx="1770" cy="5140" r="14"/>
+    <circle cx="2280" cy="5140" r="14"/>
+  </g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="36">
+    <text x="185" y="5240">1919　建筑建成</text>
+    <text x="690" y="5240">1927　机关迁入</text>
+    <text x="1200" y="5240">2008　省保</text>
+    <text x="1710" y="5240">2013　国保</text>
+    <text x="2180" y="5240">2016　开放</text>
+  </g>
+</svg>

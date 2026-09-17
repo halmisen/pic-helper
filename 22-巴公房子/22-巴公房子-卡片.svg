@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="5472" viewBox="0 0 2520 5472">
+  <title>22 巴公房子</title>
+  <desc>武汉建筑散步提词卡。上半部直接使用 Wikimedia Commons 真实建筑照片，下半部为 SVG 讲解信息。</desc>
+
+  <rect width="2520" height="5472" fill="#FCFBF7"/>
+  <g fill="#0B4FAF" stroke="#0B4FAF">
+    <line x1="160" y1="150" x2="2360" y2="150" stroke-width="5"/>
+    <circle cx="160" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+    <circle cx="2360" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+  </g>
+
+  <text x="180" y="360" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="180" font-weight="700">22</text>
+  <text x="620" y="350" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="116" font-weight="700">巴公房子</text>
+  <text x="625" y="485" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="48">1910年　鄱阳街46–56号</text>
+
+  <image href="22-巴公房子-上半部-图生图.png" x="160" y="620" width="2200" height="2040" preserveAspectRatio="xMidYMid meet"/>
+
+  <line x1="160" y1="2860" x2="2360" y2="2860" stroke="#0B4FAF" stroke-width="5"/>
+  <text x="180" y="3005" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="76" font-weight="700">一座公寓，如何成为城市转角</text>
+  <text x="182" y="3100" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="42">先看圆顶和红砖体量，再讲一座公寓如何留下居住记忆。</text>
+
+  <line x1="1260" y1="3210" x2="1260" y2="4780" stroke="#0B4FAF" stroke-width="4"/>
+  <line x1="160" y1="4100" x2="2360" y2="4100" stroke="#0B4FAF" stroke-width="4"/>
+
+  <g fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="66" font-weight="700">
+    <text x="190" y="3350">建筑风格</text>
+    <text x="1330" y="3350">它是什么地方</text>
+    <text x="190" y="4240">它经历了什么</text>
+    <text x="1330" y="4240">现状</text>
+  </g>
+
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="50">
+    <text x="190" y="3480">
+      <tspan x="190" dy="0">1910年建成的砖混结构公寓，</tspan>
+      <tspan x="190" dy="82">采用俄罗斯风格。平面接近</tspan>
+      <tspan x="190" dy="82">锐角三角形，中部有三角形</tspan>
+      <tspan x="190" dy="82">天井。清水红砖、圆顶和连续</tspan>
+      <tspan x="190" dy="82">阳台组成它的识别特征。</tspan>
+    </text>
+
+    <text x="1330" y="3480">
+      <tspan x="1330" dy="0">它位于鄱阳街46–56号，</tspan>
+      <tspan x="1330" dy="82">由俄国商人巴诺夫出资修建。</tspan>
+      <tspan x="1330" dy="82">整座公寓分为“大巴公”和</tspan>
+      <tspan x="1330" dy="82">“小巴公”，原有220个房间。</tspan>
+    </text>
+
+    <text x="190" y="4370">
+      <tspan x="190" dy="0">1909年开始修建，1910年建成；</tspan>
+      <tspan x="190" dy="82">1918年转给广东银行。新中国</tspan>
+      <tspan x="190" dy="82">成立后，它长期作为普通民居</tspan>
+      <tspan x="190" dy="82">使用，见证居住生活的变化。</tspan>
+    </text>
+
+    <text x="1330" y="4370">
+      <tspan x="1330" dy="0">2021年列入第八批湖北省</tspan>
+      <tspan x="1330" dy="82">文物保护单位，2024年翻修</tspan>
+      <tspan x="1330" dy="82">后成为酒店。它也成为走进</tspan>
+      <tspan x="1330" dy="82">汉口历史街区的城市入口。</tspan>
+    </text>
+  </g>
+
+  <line x1="160" y1="4850" x2="2360" y2="4850" stroke="#0B4FAF" stroke-width="4"/>
+  <text x="190" y="4960" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="72" font-weight="700">时间轴</text>
+  <line x1="230" y1="5140" x2="2290" y2="5140" stroke="#0B4FAF" stroke-width="5"/>
+  <g fill="#FCFBF7" stroke="#0B4FAF" stroke-width="5">
+    <circle cx="230" cy="5140" r="14"/>
+    <circle cx="642" cy="5140" r="14"/>
+    <circle cx="1054" cy="5140" r="14"/>
+    <circle cx="1466" cy="5140" r="14"/>
+    <circle cx="1878" cy="5140" r="14"/>
+    <circle cx="2290" cy="5140" r="14"/>
+  </g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="34">
+    <text x="185" y="5240">1909　动工</text>
+    <text x="590" y="5240">1910　建成</text>
+    <text x="985" y="5240">1918　转手</text>
+    <text x="1365" y="5240">2005　住户</text>
+    <text x="1770" y="5240">2021　省保</text>
+    <text x="2130" y="5240">2024　重启</text>
+  </g>
+</svg>

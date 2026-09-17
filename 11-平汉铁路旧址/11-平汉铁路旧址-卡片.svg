@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="5472" viewBox="0 0 2520 5472">
+  <title>11 平汉铁路旧址</title>
+  <desc>武汉建筑散步提词卡。上半部为 Wikimedia 真实参考图的唯一一次图生图重绘，下半部为讲解信息。</desc>
+  <rect width="2520" height="5472" fill="#FCFBF7"/>
+  <g fill="#0B4FAF" stroke="#0B4FAF"><line x1="160" y1="150" x2="2360" y2="150" stroke-width="5"/><circle cx="160" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/><circle cx="2360" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/></g>
+  <text x="180" y="360" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="180" font-weight="700">11</text>
+  <text x="620" y="350" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="116" font-weight="700">平汉铁路旧址</text>
+  <text x="625" y="485" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="48">1920—25　胜利街174号 · 平汉铁路南局</text>
+  <image href="11-平汉铁路旧址-上半部-图生图.png" x="160" y="600" width="2200" height="2040" preserveAspectRatio="xMidYMid meet"/>
+  <line x1="160" y1="2860" x2="2360" y2="2860" stroke="#0B4FAF" stroke-width="5"/>
+  <text x="180" y="3005" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="76" font-weight="700">铁路的城市后台，也是一座历史建筑</text>
+  <text x="182" y="3100" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="42">不在站台上候车，而在办公室里调度一条铁路。</text>
+  <line x1="1260" y1="3210" x2="1260" y2="4780" stroke="#0B4FAF" stroke-width="4"/><line x1="160" y1="4100" x2="2360" y2="4100" stroke="#0B4FAF" stroke-width="4"/>
+  <g fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="66" font-weight="700"><text x="190" y="3350">建筑风格</text><text x="1330" y="3350">它是什么地方</text><text x="190" y="4240">它经历了什么</text><text x="1330" y="4240">现状</text></g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="50">
+    <text x="190" y="3480"><tspan x="190" dy="0">现存建筑在1920—1925年间</tspan><tspan x="190" dy="82">建造，为四层砖木结构，平面</tspan><tspan x="190" dy="82">呈“E”状。青灰色铁砂砖、中央</tspan><tspan x="190" dy="82">门廊和拱券空廊构成识别度。</tspan></text>
+    <text x="1330" y="3480"><tspan x="1330" dy="0">它是汉口平汉铁路局旧址，</tspan><tspan x="1330" dy="82">官方名称为平汉铁路南局，位于</tspan><tspan x="1330" dy="82">胜利街174号。这里是铁路办公</tspan><tspan x="1330" dy="82">场所，不是旅客候车大厅。</tspan></text>
+    <text x="190" y="4370"><tspan x="190" dy="0">1910年南段机构设在汉口，</tspan><tspan x="190" dy="82">1911年改称汉口办公处；1930</tspan><tspan x="190" dy="82">年起平汉铁路总局在汉口办公。</tspan><tspan x="190" dy="82">1938年撤离，抗战胜利后收回。</tspan></text>
+    <text x="1330" y="4370"><tspan x="1330" dy="0">1949年后继续承接铁路系统的</tspan><tspan x="1330" dy="82">办公功能，后来成为铁路企业</tspan><tspan x="1330" dy="82">总部所在地。1993年列为武汉市</tspan><tspan x="1330" dy="82">优秀历史建筑，2008年列为湖北</tspan><tspan x="1330" dy="82">省文物保护单位。</tspan></text>
+  </g>
+  <line x1="160" y1="4850" x2="2360" y2="4850" stroke="#0B4FAF" stroke-width="4"/>
+  <text x="190" y="4960" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="72" font-weight="700">时间轴</text>
+  <line x1="230" y1="5140" x2="2290" y2="5140" stroke="#0B4FAF" stroke-width="5"/>
+  <g fill="#FCFBF7" stroke="#0B4FAF" stroke-width="5"><circle cx="230" cy="5140" r="14"/><circle cx="642" cy="5140" r="14"/><circle cx="1054" cy="5140" r="14"/><circle cx="1466" cy="5140" r="14"/><circle cx="1878" cy="5140" r="14"/><circle cx="2290" cy="5140" r="14"/></g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="34"><text x="180" y="5240">1910　南段设汉口</text><text x="590" y="5240">1911　汉口办公处</text><text x="985" y="5240">1920—25　现存建筑</text><text x="1370" y="5240">1930　平汉总局</text><text x="1770" y="5240">1938　撤离汉口</text><text x="2180" y="5240">2008　省保</text></g>
+</svg>

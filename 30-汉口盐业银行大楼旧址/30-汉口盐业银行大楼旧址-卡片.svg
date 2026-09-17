@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="5472" viewBox="0 0 2520 5472">
+  <title>30 汉口盐业银行大楼旧址</title>
+  <desc>武汉建筑散步提词卡。上半部为真实建筑参考图的唯一一次图生图重绘，下半部为 SVG 讲解信息。</desc>
+
+  <rect width="2520" height="5472" fill="#FCFBF7"/>
+  <g fill="#0B4FAF" stroke="#0B4FAF">
+    <line x1="160" y1="150" x2="2360" y2="150" stroke-width="5"/>
+    <circle cx="160" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+    <circle cx="2360" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+  </g>
+
+  <text x="180" y="360" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="180" font-weight="700">30</text>
+  <text x="620" y="350" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="116" font-weight="700">汉口盐业银行大楼旧址</text>
+  <text x="625" y="485" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="48">1932　中山大道988号 · 北京路口</text>
+
+  <image href="30-汉口盐业银行大楼旧址-上半部-图生图.png" x="160" y="600" width="2200" height="2040" preserveAspectRatio="xMidYMid meet"/>
+
+  <line x1="160" y1="2860" x2="2360" y2="2860" stroke="#0B4FAF" stroke-width="5"/>
+  <text x="180" y="3005" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="76" font-weight="700">一座银行，如何留下城市记忆</text>
+  <text x="182" y="3100" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="42">先看柱廊和高台，再讲建筑怎样继续留在金融街上。</text>
+
+  <line x1="1260" y1="3210" x2="1260" y2="4780" stroke="#0B4FAF" stroke-width="4"/>
+  <line x1="160" y1="4100" x2="2360" y2="4100" stroke="#0B4FAF" stroke-width="4"/>
+
+  <g fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="66" font-weight="700">
+    <text x="190" y="3350">建筑风格</text>
+    <text x="1330" y="3350">它是什么地方</text>
+    <text x="190" y="4240">它经历了什么</text>
+    <text x="1330" y="4240">现状</text>
+  </g>
+
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="50">
+    <text x="190" y="3480">
+      <tspan x="190" dy="0">1926年兴建、1932年完工的</tspan>
+      <tspan x="190" dy="82">五层银行大楼，采用西方</tspan>
+      <tspan x="190" dy="82">古典主义风格。最醒目的是</tspan>
+      <tspan x="190" dy="82">横越两层的高大柱廊，以及</tspan>
+      <tspan x="190" dy="82">顶部的“盐业”徽章。</tspan>
+    </text>
+
+    <text x="1330" y="3480">
+      <tspan x="1330" dy="0">它是汉口盐业银行大楼旧址，</tspan>
+      <tspan x="1330" dy="82">位于中山大道988号、北京</tspan>
+      <tspan x="1330" dy="82">路口。今天的建筑仍被金融</tspan>
+      <tspan x="1330" dy="82">机构使用。</tspan>
+    </text>
+
+    <text x="190" y="4370">
+      <tspan x="190" dy="0">建筑从盐业银行的营业场所</tspan>
+      <tspan x="190" dy="82">出发，经历抗战时期的占用</tspan>
+      <tspan x="190" dy="82">和战后的金融机构变迁，</tspan>
+      <tspan x="190" dy="82">1952年末盐业银行结业。</tspan>
+    </text>
+
+    <text x="1330" y="4370">
+      <tspan x="1330" dy="0">它在1998年列入第四批</tspan>
+      <tspan x="1330" dy="82">武汉市文物保护单位。现场</tspan>
+      <tspan x="1330" dy="82">可以把它讲成“金融功能变化</tspan>
+      <tspan x="1330" dy="82">之后，建筑如何继续留在城市里”。</tspan>
+    </text>
+  </g>
+
+  <line x1="160" y1="4850" x2="2360" y2="4850" stroke="#0B4FAF" stroke-width="4"/>
+  <text x="190" y="4960" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="72" font-weight="700">时间轴</text>
+  <line x1="230" y1="5140" x2="2290" y2="5140" stroke="#0B4FAF" stroke-width="5"/>
+  <g fill="#FCFBF7" stroke="#0B4FAF" stroke-width="5">
+    <circle cx="230" cy="5140" r="14"/>
+    <circle cx="642" cy="5140" r="14"/>
+    <circle cx="1054" cy="5140" r="14"/>
+    <circle cx="1466" cy="5140" r="14"/>
+    <circle cx="1878" cy="5140" r="14"/>
+    <circle cx="2290" cy="5140" r="14"/>
+  </g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="34">
+    <text x="185" y="5240">1914　筹办</text>
+    <text x="590" y="5240">1926　兴建</text>
+    <text x="985" y="5240">1932　完工</text>
+    <text x="1365" y="5240">1938　指挥所</text>
+    <text x="1770" y="5240">1952　结业</text>
+    <text x="2130" y="5240">1998　市保</text>
+  </g>
+</svg>

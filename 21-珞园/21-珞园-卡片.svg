@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="5472" viewBox="0 0 2520 5472">
+  <title>21 珞园</title>
+  <desc>武汉建筑散步提词卡。上半部为 Wikimedia 真实街区参考图的一次图生图重绘，下半部为 SVG 讲解信息。</desc>
+  <rect width="2520" height="5472" fill="#FCFBF7"/>
+  <g fill="#0B4FAF" stroke="#0B4FAF">
+    <line x1="160" y1="150" x2="2360" y2="150" stroke-width="5"/>
+    <circle cx="160" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+    <circle cx="2360" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/>
+  </g>
+  <text x="180" y="360" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="180" font-weight="700">21</text>
+  <text x="620" y="350" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="116" font-weight="700">珞园</text>
+  <text x="625" y="485" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="48">1984年　珞珈山街住宅区中央</text>
+
+  <image href="21-珞园-上半部-图生图.png" x="160" y="620" width="2200" height="2040" preserveAspectRatio="xMidYMid meet"/>
+
+  <line x1="160" y1="2860" x2="2360" y2="2860" stroke="#0B4FAF" stroke-width="5"/>
+  <text x="180" y="3005" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="76" font-weight="700">一块花园，如何嵌入老街</text>
+  <text x="182" y="3100" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="42">先看绿地和红砖住宅的关系，再讲公共空间如何被重新照看。</text>
+
+  <line x1="1260" y1="3210" x2="1260" y2="4780" stroke="#0B4FAF" stroke-width="4"/>
+  <line x1="160" y1="4100" x2="2360" y2="4100" stroke="#0B4FAF" stroke-width="4"/>
+  <g fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="66" font-weight="700">
+    <text x="190" y="3350">建筑风格</text>
+    <text x="1330" y="3350">它是什么地方</text>
+    <text x="190" y="4240">它经历了什么</text>
+    <text x="1330" y="4240">现状</text>
+  </g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="50">
+    <text x="190" y="3480">
+      <tspan x="190" dy="0">珞园位于住宅区中央。周围</tspan>
+      <tspan x="190" dy="82">住宅区在1910至1927年间</tspan>
+      <tspan x="190" dy="82">形成，有27栋二至三层住宅，</tspan>
+      <tspan x="190" dy="82">清水红砖、红瓦屋顶和外置</tspan>
+      <tspan x="190" dy="82">楼梯把花园包进历史街区。</tspan>
+    </text>
+    <text x="1330" y="3480">
+      <tspan x="1330" dy="0">它不是孤立的公园，而是</tspan>
+      <tspan x="1330" dy="82">珞珈山街住宅区的中心花园。</tspan>
+      <tspan x="1330" dy="82">住宅区位于江岸区珞珈山街</tspan>
+      <tspan x="1330" dy="82">1–46号，今天构成历史街区。</tspan>
+    </text>
+    <text x="190" y="4370">
+      <tspan x="190" dy="0">1950年代花园仍在，后来</tspan>
+      <tspan x="190" dy="82">逐渐荒废，1967年洛加碑被毁。</tspan>
+      <tspan x="190" dy="82">1983年政府出资修复，1984年</tspan>
+      <tspan x="190" dy="82">重新开放并命名为“珞园”。</tspan>
+    </text>
+    <text x="1330" y="4370">
+      <tspan x="1330" dy="0">住宅区1993年列为武汉市</tspan>
+      <tspan x="1330" dy="82">优秀历史建筑，2011年列入</tspan>
+      <tspan x="1330" dy="82">武汉市文物保护单位。珞园</tspan>
+      <tspan x="1330" dy="82">保存的是一段公共空间关系。</tspan>
+    </text>
+  </g>
+  <line x1="160" y1="4850" x2="2360" y2="4850" stroke="#0B4FAF" stroke-width="4"/>
+  <text x="190" y="4960" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="72" font-weight="700">时间轴</text>
+  <line x1="230" y1="5140" x2="2290" y2="5140" stroke="#0B4FAF" stroke-width="5"/>
+  <g fill="#FCFBF7" stroke="#0B4FAF" stroke-width="5">
+    <circle cx="230" cy="5140" r="14"/><circle cx="642" cy="5140" r="14"/><circle cx="1054" cy="5140" r="14"/><circle cx="1466" cy="5140" r="14"/><circle cx="1878" cy="5140" r="14"/><circle cx="2290" cy="5140" r="14"/>
+  </g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="34">
+    <text x="185" y="5240">1910　开工</text><text x="590" y="5240">1927　完工</text><text x="985" y="5240">1950s　留存</text><text x="1365" y="5240">1967　碑毁</text><text x="1770" y="5240">1984　开放</text><text x="2130" y="5240">2011　市保</text>
+  </g>
+</svg>
