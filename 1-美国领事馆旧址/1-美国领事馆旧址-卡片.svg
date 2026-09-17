@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="5472" viewBox="0 0 2520 5472">
+  <title>1 美国领事馆旧址</title>
+  <desc>武汉建筑散步提词卡。上半部为真实建筑参考图的一次图生图重绘，下半部为 SVG 讲解信息。</desc>
+  <rect width="2520" height="5472" fill="#FCFBF7"/>
+  <g fill="#0B4FAF" stroke="#0B4FAF"><line x1="160" y1="150" x2="2360" y2="150" stroke-width="5"/><circle cx="160" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/><circle cx="2360" cy="150" r="11" fill="#FCFBF7" stroke-width="5"/></g>
+  <text x="180" y="360" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="180" font-weight="700">1</text>
+  <text x="620" y="350" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="138" font-weight="700">美国领事馆旧址</text>
+  <text x="625" y="485" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="48">1905　车站路 1 号 · 现武汉人才市场</text>
+  <image href="1-美国领事馆旧址-上半部-图生图.png" x="160" y="600" width="2200" height="2040" preserveAspectRatio="xMidYMid meet"/>
+  <line x1="160" y1="2860" x2="2360" y2="2860" stroke="#0B4FAF" stroke-width="5"/>
+  <text x="180" y="3005" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="76" font-weight="700">一栋楼，如何容纳多重身份</text>
+  <text x="182" y="3100" fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="42">先找红砖和塔楼，再把领事馆、战争与城市日常连起来。</text>
+  <line x1="1260" y1="3210" x2="1260" y2="4780" stroke="#0B4FAF" stroke-width="4"/><line x1="160" y1="4100" x2="2360" y2="4100" stroke="#0B4FAF" stroke-width="4"/>
+  <g fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="66" font-weight="700"><text x="190" y="3350">建筑风格</text><text x="1330" y="3350">它是什么地方</text><text x="190" y="4240">它经历了什么</text><text x="1330" y="4240">现状</text></g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="50">
+    <text x="190" y="3480"><tspan x="190" dy="0">红砖清水墙、连续拱券窗和灰白</tspan><tspan x="190" dy="82">檐口是第一眼；弧形墙面与八角</tspan><tspan x="190" dy="82">塔楼，把三层体量向上提起。</tspan></text>
+    <text x="1330" y="3480"><tspan x="1330" dy="0">这里是汉口美国驻汉口总领事馆</tspan><tspan x="1330" dy="82">旧址，1905 年建成，位于车站路</tspan><tspan x="1330" dy="82">1 号，现为武汉人才市场。</tspan></text>
+    <text x="190" y="4370"><tspan x="190" dy="0">1861 年设领事馆，1905 年建筑</tspan><tspan x="190" dy="82">落成，1915 年迁入；1941 年闭馆，</tspan><tspan x="190" dy="82">1945 年复馆，1949 年再次关闭。</tspan></text>
+    <text x="1330" y="4370"><tspan x="1330" dy="0">今天仍能从街角读出红砖、拱窗</tspan><tspan x="1330" dy="82">和塔楼。建筑继续被城市使用，</tspan><tspan x="1330" dy="82">不必把旧址理解成一座静止标本。</tspan></text>
+  </g>
+  <line x1="160" y1="4850" x2="2360" y2="4850" stroke="#0B4FAF" stroke-width="4"/><text x="190" y="4960" fill="#0B4FAF" font-family="Noto Serif CJK SC, serif" font-size="72" font-weight="700">时间轴</text>
+  <line x1="230" y1="5140" x2="2290" y2="5140" stroke="#0B4FAF" stroke-width="5"/>
+  <g fill="#FCFBF7" stroke="#0B4FAF" stroke-width="5"><circle cx="230" cy="5140" r="14"/><circle cx="642" cy="5140" r="14"/><circle cx="1054" cy="5140" r="14"/><circle cx="1466" cy="5140" r="14"/><circle cx="1878" cy="5140" r="14"/><circle cx="2290" cy="5140" r="14"/></g>
+  <g fill="#0B4FAF" font-family="Noto Sans CJK SC, sans-serif" font-size="34"><text x="185" y="5240">1861　设领事馆</text><text x="600" y="5240">1905　建筑落成</text><text x="1010" y="5240">1915　迁入</text><text x="1410" y="5240">1941　闭馆</text><text x="1810" y="5240">1945　复馆</text><text x="2210" y="5240">1949　关闭</text></g>
+</svg>
