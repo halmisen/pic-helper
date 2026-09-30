@@ -1,25 +1,37 @@
 # Repository Guidelines
 
+## Project Scope
+
+This repository is now a workspace for non-prompt-card image production. The historical Wuhan presenter-card project is archived in `提示卡项目/`. Treat that directory as read-only history and style reference unless the user explicitly asks to revise an archived card.
+
+The general project style is **冷钴蓝稀疏蚀刻建筑插画** (`Cobalt-blue editorial etching illustration`): neutral warm-white paper, one cool cobalt-blue ink, low ink density, generous negative space, graphic simplification, sparse stippling, and a few short hatch marks. It is a modern editorial print illustration, not a historical photograph, a photo filter, or dense realistic copperplate engraving. A product-specific `插画素材规格.md` overrides the general palette and output mode when it exists. For `图片项目/miniprogram-pic/`, that specification is authoritative: deep green `#0E5C3F`, transparent PNG, 3:4 composition, subject anchored near the lower edge, and the upper 30–40% left empty.
+
 ## Project Structure & Module Organization
 
-This repository contains presenter prompt cards for Wuhan architectural walks. Each location has one numbered directory, such as `29-英文楚报馆旧址/`. Keep the location's generated PNGs, presenter prompt Markdown, fact-check notes, image-generation prompt, and relevant local research together. Use `README.md` for project-wide conventions and current highlights; use `kanban.md` for active status and next steps; use `placenumber.md` for the route sequence. Do not create a parallel status board.
+Create each new subject in its own descriptive directory under `图片项目/<主题>/`. Keep the prompt, source or reference record, generated image versions, and any factual boundary notes together. Use `README.md` for project-wide conventions, `kanban.md` for current status and gates, and `提示卡项目/` only for the archived prompt-card work. Do not create a parallel status board.
 
-## Build, Test, and Development Commands
+For a new image project, use these files when they apply:
 
-There is no package manager, build system, or automated test suite. Changes are edited directly as Markdown or image assets. Before submitting work, inspect links and filenames with `rg --files`, review Markdown changes with `git diff --check`, and verify generated PNG dimensions and format with an image metadata tool such as `identify` when available. Update `README.md` only when a new location or notable project convention needs to be surfaced.
+- `生成提示词.md`: prompt, image role, style constraints, and generation record.
+- `来源.md` or `核查.md`: reference-image provenance, licenses, factual sources, and uncertainty boundaries.
+- `<主题>-vN.png`: versioned output; do not overwrite an earlier version.
 
-## Coding Style & Naming Conventions
+## Visual and Content Boundaries
 
-Use UTF-8 Markdown with concise headings and plain, presenter-friendly Chinese prose. Preserve the established numbered directory format: `<number>-<地点名>/`. Name assets descriptively, for example `提词卡初稿.md`, `核查.md`, `生成提示词.md`, and `<地点名>-v2.png`. Increment image versions instead of overwriting earlier variants. Keep source claims separate from AI-generated visual interpretation, and record source boundaries in the fact-check notes.
+- Preserve the subject's identity and major spatial relationships when a reference image is supplied; change the medium, color, and illustration treatment only unless the brief authorizes a redesign.
+- Keep the paper visible through the subject. Avoid dirty yellow, ochre, brown, sepia, continuous gray gradients, dense cross-hatching, and full-area dark texture.
+- Keep factual claims separate from AI-generated visual interpretation. Do not describe an AI-generated image as an archival or historical photograph.
+- Record external-image licenses and the permitted use of each reference. Do not commit credentials, private attachments, browser caches, or generated tool output.
 
-## Testing Guidelines
+## Validation
 
-Validation is editorial and asset-based rather than unit-test based. Check that every factual claim in a prompt card is supported by the accompanying `核查.md`, that external or AI-generated material is identified, that Markdown links resolve to tracked files, and that the intended PNG version opens at the expected dimensions. For a new location, confirm the number and name against `placenumber.md`.
+There is no package manager, build system, or automated test suite. Validation is editorial and asset-based:
 
-## Commit & Pull Request Guidelines
+1. Inspect filenames and links with `rg --files` and targeted `rg` searches.
+2. Run `git diff --check`.
+3. Verify PNG format and dimensions with `identify` or another image metadata tool when available.
+4. Open or visually inspect the intended output and confirm that the style, subject, and version path match the brief.
 
-Use short Conventional Commit-style subjects such as `feat: add Wuhan guide card 30`, `docs: update fact check`, or `chore: retire unversioned card filename`; existing commits append `[Codex]` when authored by Codex. Keep each commit focused and include only related files. Pull requests should explain the location and asset changes, identify fact-check sources and any AI-generated imagery, link relevant README/KANBAN updates, and include image previews when visual layout changed.
+## Commit and Delivery
 
-## Security & Configuration Tips
-
-Do not commit credentials, private source attachments, browser caches, or generated tool output. Respect the existing `.gitignore`. Treat AI-generated building imagery as stylized illustration, not historical photography, unless independently verified evidence supports a different claim.
+Use short Conventional Commit-style subjects with the Codex marker, for example `feat: add etched illustration 01 [Codex]` or `docs: archive prompt-card project [Codex]`. Keep each commit focused, stage explicit paths, and check for sensitive information before committing. Delivery notes should name the changed files, source boundaries, AI-generated assets, and the verification performed.

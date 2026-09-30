@@ -16,3 +16,6 @@ Thumbs.db
 .idea/
 .vscode/
 __pycache__/
+
+# Local production references; public redistribution is not authorized.
+/图片项目/miniprogram-pic/参考图片/
